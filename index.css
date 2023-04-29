@@ -1,0 +1,203 @@
+.main-header {
+
+}
+
+.logo {
+    width: 200px;
+    height: 100px;
+}
+
+.main-menu {
+    position: relative;
+    float: right;
+   
+}
+
+ 
+.titre-logo {
+    text-align : left;
+    margin : 0.7% 0 5% 0;
+}
+.titre-logo h1 {
+    margin : -30px 0 0 23px;
+    font-size : 26px;
+    color: #003399 ;
+}
+
+.order {
+    display: flex;
+    flex-direction: row;
+}
+
+.about-us {
+    width: 200px;
+    color: #003399;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger ;
+    font-style: italic;
+}
+
+.our-doctors {
+    width: 200px;
+    color:#003399 ;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger ;
+    font-style: italic;
+}
+
+.contact-us {
+    width: 200px;
+    color: #003399;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger ;
+    font-style: italic;
+}
+
+.about-us1 {
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger ;
+
+}
+
+.our-doctors1 {
+    width: 200px;
+    color:white ;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger ;
+}
+
+.contact-us1 {
+    width: 200px;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: larger;
+}   
+
+.rdv {
+display:flex;
+display:block ;
+margin: 0 -10px;
+padding: 0  20px  ;
+
+}
+
+.à_propos {
+    width: 50%;
+    float: left;
+}
+
+.nous {
+    width:30%;
+    float: right;
+    background-color:blue ;
+    border-radius: 30%;
+}
+
+
+
+.grid {
+   display: flex;
+   margin: 0 80px;
+   padding: 40px  40px;
+   background-color: #81c2ff;
+   border-top-left-radius: 100px;
+   border-bottom-right-radius:100px ;
+  
+   
+   
+}
+.H2 {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-family: Roboto,Arial,sans-serif;
+    color: white;
+
+}
+.aboutus {
+    font-size: xx-large;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mil {
+    padding: 40px;
+}
+
+.button {
+    display: inline-block;
+    background-color: yellow;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width:400px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    vertical-align: inherit;
+   
+  }
+
+  button:hover {
+    background-color: black;
+  }
+
+  .nos {
+   padding: 50px 550px;
+   font-size: xx-large;
+   color: #003399;
+  }
+
+  .grid1 {
+    display: flex;
+    padding:30px 20px ;
+    justify-content: space-between;
+  }
+  .col_4 {
+    width: 23%;
+    background-color: rgb(188, 217, 242);
+    border-radius: 15%;
+   
+  }
+
+  .shéla {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(28, 68, 100);
+    padding: 10px 30px;
+  }
+
+  .pi {
+    padding: 10px 20px;
+    font-size: large;
+    font-style: italic;
+  }
+
+.allo {
+
+}
+
+
+  .allo1 {
+     background-color: bisque;
+    padding:9% 25%;
+    }
+
+
+
+  .lala {
+    padding:40px 40px;
+    margin: 40px;
+  }
